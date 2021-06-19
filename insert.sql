@@ -4,7 +4,7 @@ INSERT INTO publisher(name, country) VALUES
 ('GCP','USA'),
 ('Avery', 'USA'),
 ('Del Rey', 'UK'),
-('Vinatge', 'UK');
+('Vintage', 'UK');
 
 INSERT INTO books(title, publisher) VALUES
 ('The C Programming Language', 1),
